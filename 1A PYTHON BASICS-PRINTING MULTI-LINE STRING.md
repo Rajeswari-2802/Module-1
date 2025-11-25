@@ -28,6 +28,7 @@ print(string_single_quotes)
 print(string_double_quotes)
 ```
 ## OUTPUT
-<img width="1292" height="474" alt="{73739F3C-E31F-425A-9242-EDA4EE875701}" src="https://github.com/user-attachments/assets/d9f68a02-2e42-45db-b865-38c2adc6bf2a" />
+<img width="710" height="338" alt="image" src="https://github.com/user-attachments/assets/b847a671-5a3c-46b7-9497-b4a6ab82df94" />
+
 ## RESULT
 The program was successfully executed. It printed the string across multiple lines using both triple single quotes (''') and triple double quotes (""").
