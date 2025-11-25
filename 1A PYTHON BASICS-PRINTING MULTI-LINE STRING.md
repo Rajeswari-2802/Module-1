@@ -11,10 +11,9 @@ To create a Python program to print the string in multiple lines using triple qu
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
-
+# Reg.No- 212223060218
+# Name- RAJESWARI T
+# multiline using triple quotes.
 string_single_quotes = '''I am a string literal
 ... has more than one
 ... line
@@ -29,6 +28,6 @@ print(string_single_quotes)
 print(string_double_quotes)
 ```
 ## OUTPUT
-
+<img width="1292" height="474" alt="{73739F3C-E31F-425A-9242-EDA4EE875701}" src="https://github.com/user-attachments/assets/d9f68a02-2e42-45db-b865-38c2adc6bf2a" />
 ## RESULT
-
+The program was successfully executed. It printed the string across multiple lines using both triple single quotes (''') and triple double quotes (""").
